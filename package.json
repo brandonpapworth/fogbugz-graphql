@@ -1,0 +1,21 @@
+{
+  "name": "brandonpapworth/fogbugz-graphql",
+  "version": "0.0.1",
+  "author": "Brandon Papworth <brandon@papworth.me>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brandonpapworth/fogbugz-graphql.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brandonpapworth/fogbugz-graphql/issues"
+  },
+  "homepage": "https://github.com/brandonpapworth/fogbugz-graphql",
+  "keywords": [
+    "fogbugz",
+    "fogcreek",
+    "graphql",
+    "schema"
+  ],
+  "license": "MIT"
+}
